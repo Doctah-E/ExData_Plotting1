@@ -1,7 +1,10 @@
 # ExData course Assignment week 1
 # Plot 2
 library(dplyr)
-library(ggplot2)
+library(ggplot2) 
+# I decided to switch to ggplot2
+# Because I think that is the most promising approach
+# And it makes no sense to study other approaches if you're not going to use them
 Sys.setlocale("LC_ALL", "English")
 
 

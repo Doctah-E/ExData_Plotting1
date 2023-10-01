@@ -1,8 +1,6 @@
 # ExData course Assignment week 1
 # Plot 1
 library(dplyr)
-library(summarytools)
-library(lubridate)
 
 data <- read.table("household_power_consumption.txt", 
                    header = T, sep = ";", na.strings = "?")
